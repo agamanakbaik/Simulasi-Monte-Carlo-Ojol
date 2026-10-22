@@ -50,3 +50,4 @@ boxplot(total_waktu,
         main = "Boxplot Waktu Perjalanan", 
         ylab = "Total Waktu (Menit)", 
         col = "lightgreen")
+
